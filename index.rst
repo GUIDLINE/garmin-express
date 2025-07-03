@@ -2,9 +2,9 @@
 Visit Garmin.com/Express to Download & Use Garmin Express in Minutes
 ====================================================================
 
-.. image:: get.jpg
-   :alt: homedepot.com/mycard
-   :target: https://fm.ci?aHR0cHM6Ly9wYWRkeXBvd2VyLXN1cHBvcnQucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
+.. image:: get.png
+   :alt: Garmin.com/Express
+   :target: https://fm.ci?aHR0cHM6Ly9nYXJtaW5oZWxwbGluZS5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
 
 If you own a Garmin GPS device, fitness watch, or any other smart gadget by Garmin, keeping it updated is essential for accurate performance and new features. Thankfully, Garmin makes it incredibly simple with its official software — **Garmin Express**.
 
